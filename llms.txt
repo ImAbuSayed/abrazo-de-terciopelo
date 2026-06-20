@@ -1,4 +1,4 @@
-# Abrazo de terciopelo
+# Abrazo de terciopelo, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Abrazo de terciopelo |
+| **Title** | Abrazo de terciopelo, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/abrazo-de-terciopelo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Abrazo de terciopelo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-de-terciopelo/) |
+| **Get License** | [Get a Licensing Quote for Abrazo de terciopelo, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-de-terciopelo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ese vestido negro y tu caminar
+> La disco está llena, te invito a bailar
+> Tú y yo esta noche, la vamo' a romper
+> Un abrazo de terciopelo, te quiero tener
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `a8cc7e2e7c2fb0b1a85953eee8f9237aac752ab99e050bf9bcf3b3eaf8618b25` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 

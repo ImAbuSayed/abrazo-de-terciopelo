@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Abrazo de terciopelo, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Abrazo de terciopelo, Vol. 2** (abrazo-de-terciopelo-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T02:05:53.878773 | `v1` | `a8cc7e2e7c2fb0b1a85953eee8f9237aac752ab99e050bf9bcf3b3eaf8618b25` | `6e3b125711b6096f33370dbda042ff02facd9fc02a094d13e0fe9bdc55cc2916` | `2026-06-21_abrazo-de-terciopelo-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
